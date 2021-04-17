@@ -1,6 +1,6 @@
 # Full Stack Application with Spring Boot and React
 
-![Architecture](react_00_architecture.png)
+![Architecture](react_00_architecture.png) ok
 
 To understand the application
 - https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application
